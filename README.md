@@ -13,14 +13,6 @@ The project includes several key stages: web scraping, data cleaning, data analy
 Additionally, insights are presented through a PowerPoint presentation and an interactive dashboard.
 
 
-## Collaborators
-
-- [Kunal Jain](https://github.com/hrugwedm)
-- [Gayatri Tumsare](https://github.com/GayatriTumsare)
-- [Hrugwed More](https://github.com/10kunalJain)
-- [Saswat Nayak](https://github.com/Saswat132002)
-- [Afreen Ansar](https://github.com/05afreen)
-
 ## Key Objectives:
 - Web Scraping: Automate the extraction of relevant data from the zomato website.
 - Data Cleaning: Ensure the data is accurate and consistent for analysis.
@@ -205,7 +197,7 @@ After scraping the data, it is essential to clean it to ensure accuracy and cons
 merged_zomato = merged_zomato.dropduplicates()
 ```
 
-#### Step 3: Save Cleaned Data to CSV
+#### Step 2: Save Cleaned Data to CSV
 ```bash
 merged_zomato.to_csv("final_zomato.csv") # CONVERT THE CLEAN DATA TO CSV FILE FOR FURTHER ANALYSIS
 ```
