@@ -241,6 +241,7 @@ Here is a screenshot of the dashboard:
 
 
 ![image](https://github.com/user-attachments/assets/918156ee-9659-46a3-a01d-f627b35f711a)
+![Screenshot 2025-01-14 171657](https://github.com/user-attachments/assets/a0df915b-a85c-4238-b158-03a620611e74)
 
 
 
