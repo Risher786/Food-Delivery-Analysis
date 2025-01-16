@@ -1,5 +1,5 @@
 
-# Food Delivery Analysis
+# Restaurants Analysis 
 
 ## Bangalore outlets from the food delivery platform Zomato 
 URL =https://www.zomato.com/bangalore
@@ -240,7 +240,7 @@ Key features of the dashboard include:
 Here is a screenshot of the dashboard:
 
 
-![Screenshot 2025-01-14 171657](https://github.com/user-attachments/assets/a0df915b-a85c-4238-b158-03a620611e74)
+![Image](https://github.com/user-attachments/assets/82b49c88-e7ee-42bb-a6ad-6cb028d84606)
 
 
 
